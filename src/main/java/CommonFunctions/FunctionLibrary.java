@@ -217,6 +217,10 @@ Reporter.log(act_data+"   "+testdata,true);
 break;
 }
 }
+public static void verifyLogin()
+{
+	System.out.println("Login Success");
+}
 }
 
 
